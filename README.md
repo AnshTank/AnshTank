@@ -27,7 +27,7 @@
 - 📄 [My Resume](https://tinyurl.com/2ty797tx)
 
 ### ⚡ Fun Fact:
-> Started as a frontend dev — now my terminal feels like home. 🖥️
+><h1> Started as a frontend dev — now my terminal feels like home. 🖥️</h1>
 
 ---
 
