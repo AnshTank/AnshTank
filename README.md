@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Tank</h1>
-<h3 align="center">🚀 Full-Stack & DevOps Enthusiast | Building impactful tech, one deploy at a time 💻</h3>
-<h3 align="center">I build, break, and rebuild — full-stack + DevOps learner on a mission </h3>
-
+<h3 align="center">🚀 I build, break, and rebuild — Full-Stack & DevOps learner on a mission 💻</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshtank&label=Profile%20Views&color=0e75b6&style=flat" alt="anshtank" />
