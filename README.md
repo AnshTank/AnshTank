@@ -55,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/holy_sand_38" target="_blank">
-    <img src="https://play.google.com/store/apps/details?id=com.arjun.codechef_au" height="30" width="40" alt="CodeChef" />
+    <img src="https://play-lh.googleusercontent.com/S6jZCYEg6IITdHCCOd_1CnOBmzhoC_FL8oMyunTr64o9kxtV_CUYeTgx8epLS2lPmS8" height="30" width="40" alt="CodeChef" />
   </a>
   <a href="https://www.hackerrank.com/profile/anshtank9" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
