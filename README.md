@@ -14,7 +14,7 @@
 ### 🔥 About Me
 
 - 🔭 Currently building: [**ConsultBridge**](https://github.com/AnshTank/ConsultBridge) – a full-stack consultancy platform  
-- 🧠 Also working on: [**HOP‑11**](https://github.com/AnshTank/HOP-11-Nurse-Shift-Companion) – an AI-powered nurse shift handoff tool  
+- 🧠 Also working on: [**HOP‑11**](https://github.com/AnshTank/HOP) – an AI-powered nurse shift handoff tool  
 - 🌱 Learning: `Docker`, `Kubernetes`, advanced `DSA`, `PostgreSQL`, `Tailwind CSS`, and `System Design`  
 - 🤝 Open to **collaborations** on impactful tech projects like [Financial Literacy Platform](https://github.com/AnshTank/financial-literacy-platform)  
 - 👨‍💻 Check out all my projects: [GitHub Repositories](https://github.com/AnshTank?tab=repositories)  
