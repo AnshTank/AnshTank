@@ -13,17 +13,19 @@
 
 ### 🔥 About Me
 
-- 🔭 Currently working on: [**ConsultBridge**](https://github.com/AnshTank/ConsultBridge)
-- 🌱 Currently learning: `Docker`, `Kubernetes`, advanced `DSA`, `PostgreSQL`, `Tailwind CSS`, and `System Design`
-- 🤝 Looking for **collaborators** on: [Financial Literacy Platform](https://github.com/AnshTank/financial-literacy-platform)
-- 👨‍💻 All my projects are available at: [GitHub Repositories](https://github.com/AnshTank?tab=repositories)
-- 💬 Ask me about: `React`, `Node.js`, `Java`, `DevOps Tools`, `DSA`, and `Web App Architecture`
-- 📫 Reach me at:
-  - 📧 **anshtank9@gmail.com**
-  - 🔗 [LinkedIn](https://linkedin.com/in/anshtank9)
-  - 🧑‍💻 [GitHub](https://github.com/AnshTank)
-- 📄 Resume: [View Here](https://tinyurl.com/2ty797tx)
-- ⚡ Fun Fact: *I started as a frontend dev, but now my terminal feels more like home.*
+- 🔭 Currently building: [**ConsultBridge**](https://github.com/AnshTank/ConsultBridge) – a full-stack consultancy platform  
+- 🧠 Also working on: [**HOP‑11**](https://github.com/AnshTank/HOP-11-Nurse-Shift-Companion) – an AI-powered nurse shift handoff tool  
+- 🌱 Learning: `Docker`, `Kubernetes`, advanced `DSA`, `PostgreSQL`, `Tailwind CSS`, and `System Design`  
+- 🤝 Open to **collaborations** on impactful tech projects like [Financial Literacy Platform](https://github.com/AnshTank/financial-literacy-platform)  
+- 👨‍💻 Check out all my projects: [GitHub Repositories](https://github.com/AnshTank?tab=repositories)  
+- 💬 Ask me about: `React`, `Node.js`, `Java`, `DevOps Tools`, `DSA`, and `Web App Architecture`  
+- 📫 Reach me at:  
+  - 📧 **anshtank9@gmail.com**  
+  - 🔗 [LinkedIn](https://linkedin.com/in/anshtank9)  
+  - 🧑‍💻 [GitHub](https://github.com/AnshTank)  
+- 📄 Resume: [View Here](https://tinyurl.com/2ty797tx)  
+- ⚡ Fun Fact: *Started as a frontend dev, now I feel more at home in the terminal.*
+
 
 ---
 
