@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Tank</h1>
-<h3 align="center">🚀 Full-Stack Developer | DevOps Enthusiast | AI Integration Specialist 💻</h3>
+<h3 align="center">🚀 Full-Stack Developer | Lifelong Learner | Code Craftsman 💻</h3>
 <h4 align="center">Architecting scalable solutions that bridge technology and real-world impact</h4>
 
 <p align="center">
